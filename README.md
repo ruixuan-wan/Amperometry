@@ -1,4 +1,4 @@
-# README: LabVIEW Code for Amperometry and Coulometry
+# LabVIEW Code for Amperometry and Coulometry
 
 ## Overview
 This LabVIEW program is designed to interface Bioanalytical Systems CV-27 Voltammograph with a National Instruments (NI) data acquisition card to perform Amperometry and Coulometry. It allows users to set up and run electrochemical measurements, visualize data, and save the results for further analysis.
