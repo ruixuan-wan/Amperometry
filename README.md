@@ -7,21 +7,6 @@ This code is developed for use in **CHEM 426/526 Instrumental Analysis** at the 
 
 ## Features
 - **Potentiostat Integration**: Connects to a potentiostat through an NI data acquisition card.
-- **Amperometry and Coulometry Parameter Configuration**: Users can set up key parameters for their measurements.
-- **Data Visualization**:
-  - Displays raw current and charge data during the measurement.
-  - Provides processed data for analysis.
-- **Data Saving**: Users can save both raw and processed data for further analysis.
-
-## Installation and Setup
-1. **Connect Hardware**:
-   - Ensure the potentiostat is properly connected to the NI DAQ card.
-   - Verify that the DAQ card is recognized by LabVIEW.
-2. **Load the LabVIEW Code**:
-   - Open the LabVIEW project file.
-3. **Configure Measurement Parameters**:
-   - Set up the required parameters for Amperometry or Coulometry.
-4. **Run the Program**:
-   - Start the measurement and observe real-time data.
-5. **Save Results**:
-   - Export the data for further processing and analysis.
+- **Amperometry and Coulometry Parameter Configuration**: Users can set up below parameters for their measurements: applied voltage, time 
+- **Data Visualization**: Displays raw current vs time and charge vs time data after the measurement.
+ - **Data Saving**: Users can save both raw data in the format of .csv or .txt for further analysis.
