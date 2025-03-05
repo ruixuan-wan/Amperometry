@@ -7,6 +7,6 @@ This code is developed for use in **CHEM 426/526 Instrumental Analysis** at the 
 
 ## Features
 - **Potentiostat Integration**: Connects to a potentiostat through an NI data acquisition card.
-- **Amperometry and Coulometry Parameter Configuration**: Users can set up below parameters for their measurements: applied voltage, time 
+- **Amperometry and Coulometry Parameter Configuration**: Users can set up below parameters for their measurements: applied voltage(finish voltage), time 
 - **Data Visualization**: Displays raw current vs time and charge vs time data after the measurement.
  - **Data Saving**: Users can save both raw data in the format of .csv or .txt for further analysis.
